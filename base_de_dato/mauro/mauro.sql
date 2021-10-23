@@ -4,10 +4,10 @@ use METRO
 
 drop table ES_FINAL
 drop table ES_INICIO
-drop table LINEA
-drop table ESTACION
 drop table LINEA_ESTACION
 drop table PASAN
+drop table LINEA
+drop table ESTACION
 drop table TREN
 drop table VAGON
 
@@ -53,6 +53,7 @@ add constraint pk_VAGON primary key(idTren);
 
 /*TABLA ESTACION*/				   
 Create Table ESTACION(idEstacion numeric(5) not null, 
+					  nombre varchar(50) not null,
                       descripcion varchar(50), 
 					  nombreBarrio varchar(20) not null)
 alter table ESTACION
@@ -101,3 +102,65 @@ alter table ES_FINAL
 add constraint fk_idLinea_final foreign key(idLinea) references LINEA(idLinea);
 alter table ES_FINAL
 add constraint fk_idEstacion_final foreign key(idEstacion) references ESTACION(idEstacion)
+
+/*
+2.	Utilizando el lenguaje SQL realizar las siguientes consultas:
+*/
+/* 
+a.	Mostrar numero de línea, descripción, nombre de la estación inicio, nombre de la estación destino y cantidad de estaciones que la componen.
+*/
+select l.idLinea, l.descripcion, (select ESTACION.nombre from ESTACION where e.idEstacion = ei.idEstacion) as nom_estacion_ini, (select ESTACION.nombre from ESTACION where ESTACION.idEstacion = ef.idEstacion) as nom_estacion_fin, count(lies.idEstacion) as cant_estaciones
+from LINEA l,ES_INICIO ei,ES_FINAL ef,ESTACION e, LINEA_ESTACION lies
+where l.idLinea = ei.idLinea and
+		l.idLinea = ef.idLinea and 
+		l.idLinea = lies.idLinea and
+		lies.idEstacion = e.idEstacion
+group by l.idLinea, l.descripcion, ei.idEstacion, e.idEstacion, ei.idEstacion, ef.idEstacion
+
+/*
+b.	Mostrar los datos de la línea que recorre la distancia más larga
+*/
+
+select *
+from LINEA
+where idLinea = (select max(l.longitudTotal)
+					from LINEA l)				
+
+
+/*
+3.	Crear procedimientos y/o funciones para poder realizar las siguientes operaciones:
+b.	Mediante una función, dado un rango de fechas, retornar el nombre de la estación por la que pasaron más trenes en dicho rango.
+*/
+go
+create function obligatorio_funcion_b
+(@desde varchar(10), @hasta varchar(10))
+returns varchar(50)
+as
+begin
+	declare @return varchar(50);
+	select top 1 @return = e.nombre
+	from PASAN p, ESTACION e
+	where p.idEstacion = e.idEstacion and
+			p.fechaHora > @desde and
+			p.fechaHora < @hasta
+	group by e.nombre
+	order by count(p.idTren) asc
+	return @return;
+end
+
+go
+declare @retornFN varchar(50)
+exec @retornFN = dbo.obligatorio_funcion_b '01-01-2021','31-12-2022' 
+
+
+
+
+go
+select top 1 e.nombre
+from PASAN p, ESTACION e
+where p.idEstacion = e.idEstacion and
+		p.fechaHora > '01-01-2021' and
+		p.fechaHora < '31-12-2022'
+group by e.nombre
+order by count(p.idTren) asc
+	

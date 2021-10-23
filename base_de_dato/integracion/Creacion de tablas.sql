@@ -42,6 +42,7 @@ add constraint pk_VAGON primary key(idTren);
 
 /*TABLA ESTACION*/				   
 Create Table ESTACION(idEstacion numeric(5) not null, 
+					  nombre varchar(50) not null,
                       descripcion varchar(50), 
 					  nombreBarrio varchar(20) not null)
 alter table ESTACION
