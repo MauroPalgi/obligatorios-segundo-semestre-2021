@@ -1,0 +1,42 @@
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Dominio\bin\Debug\Dominio.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Dominio\bin\Debug\Dominio.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Dominio\bin\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Dominio\bin\Debug\Dominio.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Dominio\obj\Debug\Dominio.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Dominio\obj\Debug\Dominio.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Dominio\bin\Debug\Dominio.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Dominio\bin\Debug\Dominio.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Dominio\bin\Debug\Dominio.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\Dominio\obj\Debug\Dominio.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Dominio\bin\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Dominio\bin\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Dominio\obj\Debug\Dominio.pdb

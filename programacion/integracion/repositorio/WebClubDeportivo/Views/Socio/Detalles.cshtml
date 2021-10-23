@@ -1,0 +1,161 @@
+﻿
+@{
+    ViewBag.Title = "Detalles";
+}
+
+@section Styles
+{
+    <style type="text/css">
+        #detalles {
+            display: flex;
+            margin: auto 0;
+        }
+
+        #col-2 {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .panel {
+            display: flex;
+            flex-direction: column;
+            border: 1px solid black;
+            padding: 2em;
+            margin: 1em;
+        }
+        #informacion{
+            font-weight: @(ViewBag.Socio.Activo ? "normal" : "bolder");
+        }
+        label {
+            font-weight: normal;
+        }
+
+        h2, h3, h4 {
+            margin: 1em;
+        }
+    </style>
+}
+
+
+
+<h2>Detalles</h2>
+@if (ViewBag.Socio != null)
+{
+    if (ViewBag.Mensaje != null)
+    {
+        <p>@ViewBag.Mensaje</p>
+    }
+
+    <div id="detalles">
+        <div id="col-1">
+            <h3>Informacion Socio</h3>
+            <div id="informacion" class="panel">
+                <p>N° Cedula: @ViewBag.Socio.Cedula</p>
+                <p>Nombre: @ViewBag.Socio.Nombre</p>
+                <p>Fecha de Nacimiento: @(ViewBag.Socio.FechaNac)</p>
+                <p>Fecha de ingreso: @(ViewBag.Socio.FechaIngreso)</p>
+                @if (ViewBag.Socio.Activo)
+                {
+                    <p>Estado del Socio: Activo</p>
+                }
+                else
+                {
+                    <p>Estado del Socio: Inactivo</p>
+                }
+            </div>
+
+            @if (ViewBag.Socio.Activo)
+            {
+                <div class="panel">
+                    <form action="/socio/eliminar" method="post">
+                        <input style="display: none" name="cedula" value=@ViewBag.Socio.Cedula />
+                        <button class="btn btn-danger">Eliminar socio</button>
+                    </form>
+                </div>
+            }
+        </div>
+        <div id="col-2">
+            <div id="modificaciones">
+                <h4>Editar</h4>
+                <form class="panel" action="/socio/modificar" method="post">
+                    <label>
+                        Editar Nombre:
+                        <input type="text" name="nombre" placeholder=@ViewBag.Socio.Nombre />
+                    </label>
+                    <label>
+                        Editar Fecha de Nacimiento:
+                        @*@<input class="input100" type="date" name="fechaNacimiento" placeholder=@ViewBag.Socio.FechaNac onclick="ocultarError();" onfocus="(this.type='date')" onblur="(this.type='text')">*@
+                        <input type="date" name="fechaNacimiento" placeholder=@ViewBag.Socio.FechaNac />
+                    </label>
+                    <input style="display: none" name="cedula" value=@ViewBag.Socio.Cedula />
+                    <button class="btn btn-primary" type="submit" onclick="return ValidarEditar();">Editar</button><br>
+                </form>
+            </div>
+            <h4>Enlaces</h4>
+            <div id="enlaces" class="panel">
+                    @if (ViewBag.Socio.Activo)
+                    {
+                        <label>
+                            Registar Actividad:
+                            @Html.ActionLink("Marcar Actividades", "Actividades", "Actividad", new { cedula = ViewBag.Socio.Cedula }, new { @class = "" })
+                        </label>
+                    }
+                    @if (!ViewBag.Socio.Activo)
+                    {
+                        <label>
+                            Registrar Pago:
+                            @Html.ActionLink("Pagar Mensualidad", "Pagos", "Socio", new { cedula = ViewBag.Socio.Cedula }, new { @class = "" })
+                        </label>
+                    }
+                    <label>
+                        Ingresos por Fecha:
+                        @Html.ActionLink("Actividades Realizadas", "ListarIngresos", "Actividad", new { cedula = ViewBag.Socio.Cedula }, new { @class = "" })
+                    </label>
+                </div>
+        </div>
+    </div>
+}
+else
+{
+    <p> Detalles No encontrados</p>
+}
+
+<script>
+    function ValidarEditar() {
+        const respuesta = false;
+        const nombre = document.querySelector('input[name="nombre"]').value;
+        const fechaNac = document.querySelector('input[name="fechaNacimiento"]').value;
+
+        if (validarFechaNacimiento(fechaNac) && validarNombre(nombre)) {
+            respuesta = true;
+        } else {
+            if (!validarFechaNacimiento(fechaNac)) {
+                alert("Verificar fecha ingresada.")
+            }
+            if (!validarNombre(nombre)) {
+                alert("No se puede ingresar numeros como nombre.")
+            }
+        }
+
+        return respuesta;
+    }
+
+    function validarFechaNacimiento(fecha) {
+        let re = false;
+        // return re.test(email);
+        const fechaIngresada = new Date(fecha);
+        const fechaHoy = new Date();
+        const difFecha = fechaHoy.getFullYear() - fechaIngresada.getFullYear();
+        console.log(difFecha)
+        if (difFecha > 3 && difFecha < 90) {
+            re = true
+        }
+        return re
+    }
+
+    function validarNombre(nombre) {
+        const re = /[0-9]/;
+        return !re.test(nombre)
+    }
+
+</script>

@@ -1,0 +1,14 @@
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\bin\Debug\ConsolePrueba.exe.config
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\bin\Debug\ConsolePrueba.exe
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\bin\Debug\ConsolePrueba.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.exe
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\bin\Debug\ConsolePrueba.exe.config
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\bin\Debug\ConsolePrueba.exe
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\bin\Debug\ConsolePrueba.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.exe
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.pdb
