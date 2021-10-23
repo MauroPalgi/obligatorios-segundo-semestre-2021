@@ -1,5 +1,15 @@
 Create database METRO
+
 use METRO
+
+drop table ES_FINAL
+drop table ES_INICIO
+drop table LINEA
+drop table ESTACION
+drop table LINEA_ESTACION
+drop table PASAN
+drop table TREN
+drop table VAGON
 
 /*RNE 
 -ES_INICIO, ES_FINAL -> Cada linea tiene dos estaciones como inicio y final que no se pueden
@@ -17,6 +27,7 @@ repetir.
 */
 
 
+/*TABLA LINEA*/
 Create Table LINEA(idLinea numeric(2) not null, 
 			       descripcion varchar(50), 
 				   longitudTotal numeric(4), 
