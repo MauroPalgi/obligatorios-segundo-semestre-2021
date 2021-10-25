@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using System.Security.Cryptography;
+using System.ComponentModel;
+
 
 namespace Dominio
 {
@@ -15,15 +17,23 @@ namespace Dominio
         public string Contrasenia { get; set; }
         public int Id { get; set; }
 
-        //public static bool EsTextoValido(string texto)
-        //{
-        //    var r = new Regex(@"^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$");
-        //    return r.Match(texto).Success ? true : false;
-        //}
+        public static bool EsTextoValido(string texto)
+        {
+            var r = new Regex(@"^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$");
+            return r.Match(texto).Success ? true : false;
+        }
+
+        public static bool EsCorreoValido(string texto)
+        {
+            Regex rx = new Regex(
+        @"^[-!#$%&'*+/0-9=?A-Z^_a-z{|}~](\.?[-!#$%&'*+/0-9=?A-Z^_a-z{|}~])*@[a-zA-Z](-?[a-zA-Z0-9])*(\.[a-zA-Z](-?[a-zA-Z0-9])*)+$");
+            return rx.Match(texto).Success ? true : false;
+
+        }
 
         public static bool ValidarContrasenia(string contrasenia)
         {
-            return contrasenia.Length > 6 /*&& EsTextoValido(contrasenia)*/;
+            return EsTextoValido(contrasenia);
         }
 
         public static string GetSHA256(string password)

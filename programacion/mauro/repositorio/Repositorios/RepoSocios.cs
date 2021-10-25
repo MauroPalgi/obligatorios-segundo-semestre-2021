@@ -11,8 +11,8 @@ namespace Repositorios
 {
     public class RepoSocios : IRepoSocios
     {
-         string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
-        //string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
+        // string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
+        string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
         public bool Alta(Socio obj)
         {
             bool NombreValidacion = Socio.ValidarNombre(obj.Nombre);
@@ -269,7 +269,7 @@ namespace Repositorios
                     };
                     socios.Add(unSocio);
                 }
-                socios.Sort();
+                socios = socios.OrderByDescending( s => s.Nombre).ThenBy( s => s.Cedula).ToList();
                 con.Close();
             }
             finally

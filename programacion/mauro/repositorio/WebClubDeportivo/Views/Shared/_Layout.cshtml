@@ -26,28 +26,25 @@
 
                     @if (Session["logeado"] == null)
                     {
-                 <ul class="nav navbar-nav">
-                     @if (ViewContext.RouteData.Values["Action"].ToString() == "AltaFuncionario")
-                     {
-                         <li>@Html.ActionLink("Ingresar", "Login", "Funcionario")</li>
-                     }
+                 <ul class="nav navbar-nav">            
 
-                     @if (ViewContext.RouteData.Values["Action"].ToString() == "Login")
+                     @*@if (ViewContext.RouteData.Values["Action"].ToString() == "Login")
                      {
                          <li>@Html.ActionLink("Registrarse", "AltaFuncionario", "Funcionario")</li>
-                     }
+                     }*@
                      @if (ViewContext.RouteData.Values["Action"].ToString() == "Logout")
                      {
-                        
+                         <li>@Html.ActionLink("Ingresar", "Login", "Funcionario")</li>
+
                      }
                  </ul>
                     }
                     @if (Session["logeado"] != null)
                     {
              <ul class="nav navbar-nav">
-                 <li>@Html.ActionLink("Registrarse", "AltaFuncionario", "Funcionario")</li>
                  <li>@Html.ActionLink("Lista de socios", "Inicio", "Funcionario")</li>
                  <li>@Html.ActionLink("Agregar Socio", "AltaSocio", "Socio")</li>
+                 <li>@Html.ActionLink("Agregar Funcionario", "AltaFuncionario", "Funcionario")</li>
                  <li>@Html.ActionLink("Descargar Archivo de texto", "Alta", "Socio")</li>
                  <li>@Html.ActionLink("Logout", "Logout", "Funcionario")</li>
              </ul>

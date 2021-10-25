@@ -4,19 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ConsolePrueba.ServicioActividades;
+using Auxiliar;
+using Dominio;
 
 namespace ConsolePrueba
 {
     class Program
     {
         static void Main(string[] args)
-        {/*
-            ServicioActividadesClient actividades = new ServicioActividadesClient();
-            actividades.Open();
-            Actividad actividadEncontrada = actividades.UpdateCupoActividad(40, 69);            
-            actividades.Close();
-            Console.ReadLine();*/
+        {
 
+            Funcionario unFuncionario = new Funcionario()
+            {
+                Email = "admin@admin.com",
+                Contrasenia = Funcionario.GetSHA256("Admin123"),
+            };
+            bool ok = FabricaRepositorio.ObtenerRepositorioFuncionarios().Alta(unFuncionario);
+            bool existeCorreo = FabricaRepositorio.ObtenerRepositorioFuncionarios().BuscarPorCorreo("admin@admin.com");
+            Console.WriteLine("existe correo?" + existeCorreo);
+;
         }
     }
 }

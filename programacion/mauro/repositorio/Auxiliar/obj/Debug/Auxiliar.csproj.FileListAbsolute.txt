@@ -86,3 +86,14 @@ C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Aux
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.dll
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Auxiliar.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Dominio.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Repositorios.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Dominio.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Repositorios.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.pdb

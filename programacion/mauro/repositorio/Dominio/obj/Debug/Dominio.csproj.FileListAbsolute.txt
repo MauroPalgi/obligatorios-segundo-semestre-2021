@@ -46,3 +46,9 @@ C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Dom
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.dll
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\bin\Debug\Dominio.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\bin\Debug\Dominio.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.pdb

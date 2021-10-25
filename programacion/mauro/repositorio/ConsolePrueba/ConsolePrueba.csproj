@@ -90,5 +90,15 @@
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Auxiliar\Auxiliar.csproj">
+      <Project>{813e5f39-302a-4596-88ad-32d233715d72}</Project>
+      <Name>Auxiliar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{788af26e-ee95-460a-8a03-2e299df9d1b1}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

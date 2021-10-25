@@ -11,41 +11,43 @@ namespace Repositorios
 {
     public class RepoFuncionarios : IRepoFuncionarios
     {
-        string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
-        // string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
+        // string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
+        string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
         public bool Alta(Funcionario obj)
         {
             bool ret = false;
             bool ValidarCon = Funcionario.ValidarContrasenia(obj.Contrasenia);
-            Console.WriteLine(ValidarCon);
-            if (obj != null && ValidarCon)
-            {           
-                SqlConnection con = new SqlConnection(strCon);
-                string sql1 = "insert into FUNCIONARIO(email, contrasena) values(@email, @contrasena);";
-                SqlCommand com = new SqlCommand(sql1, con);
-                com.Parameters.AddWithValue("@email", obj.Email);
-                com.Parameters.AddWithValue("@contrasena", obj.Contrasenia);
+            bool ValidarEmail = Funcionario.EsCorreoValido(obj.Email);
+            if (!this.BuscarPorCorreo(obj.Email))
+            {
+                if (obj != null && ValidarCon && ValidarEmail)
+                {
+                    SqlConnection con = new SqlConnection(strCon);
+                    string sql1 = "insert into FUNCIONARIO(email, contrasena) values(@email, @contrasena);";
+                    SqlCommand com = new SqlCommand(sql1, con);
+                    com.Parameters.AddWithValue("@email", obj.Email);
+                    com.Parameters.AddWithValue("@contrasena", obj.Contrasenia);
 
-                try
-                {
-                    con.Open();
-                    int afectadas = com.ExecuteNonQuery();
-                    con.Close();
+                    try
+                    {
+                        con.Open();
+                        int afectadas = com.ExecuteNonQuery();
+                        con.Close();
 
-                    ret = afectadas == 1;
+                        ret = afectadas == 1;
+                    }
+                    catch
+                    {
+                        return ret;
+                    }
+                    finally
+                    {
+                        if (con != null && con.State == ConnectionState.Open) con.Close();
+                    }
                 }
-                catch
-                {
-                    return ret;
-                }
-                finally
-                {
-                    if (con != null && con.State == ConnectionState.Open) con.Close();
-                }
+
             }
-
             return ret;
-
         }
         public bool Baja(int id)
         {
@@ -54,7 +56,7 @@ namespace Repositorios
 
         public bool BuscarFuncionario(string correo, string contrasenia)
         {
-            Funcionario func = null;           
+            Funcionario func = null;
             SqlConnection con = new SqlConnection(strCon);
             string sql = "select * from FUNCIONARIO where email=@correo;";
             SqlCommand com = new SqlCommand(sql, con);
@@ -73,7 +75,7 @@ namespace Repositorios
                         Contrasenia = reader.GetString(2),
                     };
                 }
-                if (func!= null && func.Contrasenia == contrasenia)
+                if (func != null && func.Contrasenia == contrasenia)
                     ret = true;
                 con.Close();
             }
@@ -86,7 +88,7 @@ namespace Repositorios
 
         public Funcionario BuscarPorId(int id)
         {
-            Funcionario func = null;            
+            Funcionario func = null;
             SqlConnection con = new SqlConnection(strCon);
             string sql = "select * from Funcionario where Id=@id;";
             SqlCommand com = new SqlCommand(sql, con);
@@ -116,6 +118,39 @@ namespace Repositorios
             }
 
             return func;
+
+        }
+
+        public bool BuscarPorCorreo(string correo)
+        {
+            bool respuesta = true;
+            SqlConnection con = new SqlConnection(strCon);
+            string sql = "select * from Funcionario where email=@email;";
+            SqlCommand com = new SqlCommand(sql, con);
+
+            com.Parameters.AddWithValue("@email", correo);
+
+            try
+            {
+                con.Open();
+                SqlDataReader reader = com.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    if (reader.HasRows)
+                    {
+                        respuesta = true;
+                    }
+                }
+
+                con.Close();
+            }
+            finally
+            {
+                if (con.State == ConnectionState.Open) con.Close();
+            }
+
+            return respuesta;
 
         }
 

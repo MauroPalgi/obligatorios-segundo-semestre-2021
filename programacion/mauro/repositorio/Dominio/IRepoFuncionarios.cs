@@ -10,5 +10,6 @@ namespace Dominio
     public interface IRepoFuncionarios : IRepositorio<Funcionario>
     {      
         bool BuscarFuncionario(string correo, string contrasenia);
+        bool BuscarPorCorreo(string correo);
     }
 }
