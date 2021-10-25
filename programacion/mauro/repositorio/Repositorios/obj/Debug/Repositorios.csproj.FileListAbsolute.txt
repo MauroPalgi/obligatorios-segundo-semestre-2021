@@ -1,0 +1,72 @@
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\bin\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Repositorios\obj\Debug\Repositorios.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.csproj.AssemblyReference.cache
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\bin\Debug\Repositorios.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\bin\Debug\Repositorios.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\bin\Debug\Dominio.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\bin\Debug\Dominio.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\bin\Debug\Dominio.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\obj\Debug\Repositorios.csproj.AssemblyReference.cache
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\bin\Debug\Dominio.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\obj\Debug\Repositorios.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\bin\Debug\Dominio.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.pdb
