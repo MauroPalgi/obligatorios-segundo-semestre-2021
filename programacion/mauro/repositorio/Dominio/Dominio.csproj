@@ -50,7 +50,6 @@
     <Compile Include="IRepoRegistros.cs" />
     <Compile Include="IRepositorio.cs" />
     <Compile Include="IRepoSocios.cs" />
-    <Compile Include="OrdenarSocio.cs" />
     <Compile Include="Pago.cs" />
     <Compile Include="PaseLibre.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
