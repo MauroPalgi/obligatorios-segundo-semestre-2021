@@ -1,0 +1,42 @@
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\DebugConsole.exe.config
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\DebugConsole.exe
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\DebugConsole.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\Auxiliar.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\Dominio.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\Repositorios.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\Auxiliar.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\Dominio.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\bin\Debug\Repositorios.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\obj\Debug\DebugConsole.csproj.AssemblyReference.cache
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\obj\Debug\DebugConsole.csproj.CoreCompileInputs.cache
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\obj\Debug\DebugConsole.csproj.CopyComplete
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\obj\Debug\DebugConsole.exe
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\DebugConsole\obj\Debug\DebugConsole.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\DebugConsole.exe.config
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\DebugConsole.exe
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\DebugConsole.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\Auxiliar.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\Dominio.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\Repositorios.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\Auxiliar.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\Dominio.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\bin\Debug\Repositorios.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\obj\Debug\DebugConsole.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\obj\Debug\DebugConsole.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\obj\Debug\DebugConsole.csproj.CopyComplete
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\obj\Debug\DebugConsole.exe
+C:\Users\mauro\OneDrive\Escritorio\New folder\DebugConsole\obj\Debug\DebugConsole.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\DebugConsole.exe.config
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\DebugConsole.exe
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\DebugConsole.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\Auxiliar.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\Repositorios.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\Auxiliar.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\obj\Debug\DebugConsole.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\obj\Debug\DebugConsole.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\obj\Debug\DebugConsole.csproj.CopyComplete
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\obj\Debug\DebugConsole.exe
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DebugConsole\obj\Debug\DebugConsole.pdb

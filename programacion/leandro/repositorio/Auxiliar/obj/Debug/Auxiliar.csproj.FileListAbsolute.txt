@@ -1,0 +1,99 @@
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\bin\Debug\Auxiliar.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\bin\Debug\Auxiliar.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\bin\Debug\Dominio.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\bin\Debug\Dominio.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\lteje\Documents\GitHub\obligatorio_programacion_3\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\Windows 10\Desktop\ORT\Prog 3\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.pdb
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\bin\Debug\Repositorios.dll
+D:\repositorios\ORT\programacion_2\obligatorio_programacion_3\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\lteje\Desktop\Obligatorio1\Obligatorio1\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\Windows 10\source\repos\new-repositorio-obligatorio-3\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Auxiliar.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Dominio.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Repositorios.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Dominio.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\bin\Debug\Repositorios.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.pdb

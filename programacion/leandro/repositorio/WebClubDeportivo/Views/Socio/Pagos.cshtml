@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Pagos";
+}
+
+<h2>Pagos</h2>
+
+<div>
+    <h3>Seleccionar modo de pagos</h3>
+    <form action="/pago/elegirPago" method="post">
+        <select name="tipo">
+            <option value="cuponera">Cuponera</option>
+            <option value="mensualidad" selected>Pase Libre</option>
+        </select>
+        <input style="display: none" name="cedula" value=@ViewBag.Cedula />
+        <button type="submit">Elegir Pago</button>
+    </form>
+</div>
