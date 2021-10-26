@@ -20,6 +20,28 @@ namespace WebClubDeportivo.Controllers
             Session.Clear();
             return View("Login");
         }
+
+        public ActionResult ExportarTexto()
+        {
+            // texto funcionarios
+            IRepoFuncionarios repoFuncionario = Auxiliar.FabricaRepositorio.ObtenerRepositorioFuncionarios();
+            repoFuncionario.ExportarTabla();
+
+            // texto socios
+            IRepoSocios repoSocios = Auxiliar.FabricaRepositorio.ObtenerRepositorioSocios();
+            repoSocios.ExportarTabla();
+
+            // texto registro
+            //IRepoRegistros repoRegistros = Auxiliar.FabricaRepositorio.ObtenerRepositorioRegistro();
+            //repoRegistros.ExportarTabla();
+
+            // texto pagos
+            IRepoPagos repoPagos = Auxiliar.FabricaRepositorio.ObtenerRepositorioPagos();
+            repoPagos.ExportarTabla();
+
+            return RedirectToAction("Inicio");
+
+        }
         public ActionResult Inicio()
         {
             if (Session["logeado"] != null)

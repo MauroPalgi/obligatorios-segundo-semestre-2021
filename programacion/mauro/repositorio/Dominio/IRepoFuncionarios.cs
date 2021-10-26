@@ -11,5 +11,6 @@ namespace Dominio
     {      
         bool BuscarFuncionario(string correo, string contrasenia);
         bool BuscarPorCorreo(string correo);
+        void ExportarTabla();
     }
 }

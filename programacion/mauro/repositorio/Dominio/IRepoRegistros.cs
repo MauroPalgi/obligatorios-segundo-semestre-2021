@@ -10,5 +10,7 @@ namespace Dominio
     {
         bool ExisteSocioEnAct(string cedula, int codAct);
         List<Registro> FiltrarIngresos(string cedula);
+        void ExportarTabla();
+
     }
 }

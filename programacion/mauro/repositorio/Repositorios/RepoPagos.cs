@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 using Dominio;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 
 namespace Repositorios
 {
     public class RepoPagos : IRepoPagos
     {
-        string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
-        // string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
+        // string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
+        string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
 
         public decimal Alta(Pago obj, Socio unSocio)
         {
@@ -94,6 +95,45 @@ namespace Repositorios
             }
 
             return monto;
+        }
+        public void ExportarTabla()
+        {
+            string filePath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            SqlConnection con = new SqlConnection(strCon);
+            string sql = "select * from Pagos";
+            SqlCommand com = new SqlCommand(sql, con);
+            try
+            {
+                con.Open();
+                SqlDataReader reader = com.ExecuteReader();
+                Console.WriteLine(filePath);
+                if (reader.HasRows)
+                {
+                    using (StreamWriter file = new StreamWriter(filePath + @"\pagos.txt", false))
+                    {
+                        /*
+                          DescPrefijado = reader.GetDecimal(1),
+                            MaxActivSinDesc = reader.GetInt32(2),
+                            MontoUnitActiv = reader.GetDecimal(3),
+                            Actividades = cuponera.Actividades,
+                         */
+                        while (reader.Read())
+                        {
+                            Console.WriteLine(reader.GetDataTypeName(0));
+
+                            file.WriteLine(reader.GetDecimal(0) + "\t |" + reader.GetDecimal(1) + "\t |" + reader.GetInt32(2) + "\t |" + reader.GetDecimal(3));
+                        }
+                    }
+
+                }
+
+                con.Close();
+            }
+            finally
+            {
+                if (con.State == ConnectionState.Open) con.Close();
+            }
+
         }
     }
 }

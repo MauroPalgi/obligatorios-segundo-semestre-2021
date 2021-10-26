@@ -12,5 +12,7 @@ namespace Dominio
         bool VigenciaPagoSocio(string cedula);
         Socio BuscarPorCi(string cedula);
         void ActivarSocio(Socio obj);
-    }   
+        void ExportarTabla();
+
+    }
 }

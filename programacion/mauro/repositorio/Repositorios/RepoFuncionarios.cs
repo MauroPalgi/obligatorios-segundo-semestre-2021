@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Dominio;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 
 namespace Repositorios
 {
@@ -153,6 +154,38 @@ namespace Repositorios
             return respuesta;
 
         }
+
+        public void ExportarTabla()
+        {
+            string filePath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            SqlConnection con = new SqlConnection(strCon);
+            string sql = "select * from Funcionario";
+            SqlCommand com = new SqlCommand(sql, con);
+            try
+            {
+                con.Open();
+                SqlDataReader reader = com.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    using (StreamWriter file = new StreamWriter(filePath + @"\funcionarios.txt", false))
+                    {
+                        while (reader.Read())
+                        {
+                            file.WriteLine(reader.GetDecimal(0) + "\t |" + reader.GetString(1) + "\t |" + reader.GetString(2));
+                        }
+                    }
+
+                }
+
+                con.Close();
+            }
+            finally
+            {
+                if (con.State == ConnectionState.Open) con.Close();
+            }
+
+        }
+
 
         public bool Modificacion(Funcionario obj)
         {

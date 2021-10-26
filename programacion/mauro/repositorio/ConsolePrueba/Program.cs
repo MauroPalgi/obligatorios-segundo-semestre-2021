@@ -22,6 +22,8 @@ namespace ConsolePrueba
             bool ok = FabricaRepositorio.ObtenerRepositorioFuncionarios().Alta(unFuncionario);
             bool existeCorreo = FabricaRepositorio.ObtenerRepositorioFuncionarios().BuscarPorCorreo("admin@admin.com");
             Console.WriteLine("existe correo?" + existeCorreo);
+            FabricaRepositorio.ObtenerRepositorioFuncionarios().ExportarTabla();
+            Console.ReadLine();
 ;
         }
     }

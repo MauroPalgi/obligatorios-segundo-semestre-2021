@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Dominio;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 
 namespace Repositorios
 {
@@ -67,11 +68,11 @@ namespace Repositorios
 
             try
             {
-            con.Open();
-            int afectadas = com.ExecuteNonQuery();
-            con.Close();
+                con.Open();
+                int afectadas = com.ExecuteNonQuery();
+                con.Close();
 
-            ret = afectadas == 1;
+                ret = afectadas == 1;
             }
             catch (Exception ex)
             {
@@ -126,7 +127,7 @@ namespace Repositorios
         }
         public void ActivarSocio(Socio obj)
         {
-           SqlConnection con = new SqlConnection(strCon);
+            SqlConnection con = new SqlConnection(strCon);
 
             string sql = "update SOCIO set activo=@activo where cedula=@cedula;";
             SqlCommand com = new SqlCommand(sql, con);
@@ -148,7 +149,7 @@ namespace Repositorios
                 if (con.State == ConnectionState.Open) con.Close();
             }
         }
-            public bool Modificacion(Socio obj)
+        public bool Modificacion(Socio obj)
         {
             bool ret = false;
             SqlConnection con = new SqlConnection(strCon);
@@ -180,7 +181,7 @@ namespace Repositorios
 
         public Socio BuscarPorCi(string cedula)
         {
-            Socio unS = null; 
+            Socio unS = null;
             SqlConnection con = new SqlConnection(strCon);
             string sql = "select * from Socio where cedula=@cedula;";
             SqlCommand com = new SqlCommand(sql, con);
@@ -246,6 +247,37 @@ namespace Repositorios
             }
             return ret;
         }
+        public void ExportarTabla()
+        {
+            string filePath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            SqlConnection con = new SqlConnection(strCon);
+            string sql = "select * from Socio";
+            SqlCommand com = new SqlCommand(sql, con);
+            try
+            {
+                con.Open();
+                SqlDataReader reader = com.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    using (StreamWriter file = new StreamWriter(filePath + @"\socios.txt", false))
+                    {
+
+                        while (reader.Read())
+                        {
+                            file.WriteLine(reader.GetDecimal(0) + "\t |" + reader.GetString(1) + "\t |" + reader.GetString(2) + "\t |" + reader.GetDateTime(3) + "\t |" + reader.GetDateTime(4) + "\t |" + reader.GetBoolean(5));
+                        }
+                    }
+
+                }
+
+                con.Close();
+            }
+            finally
+            {
+                if (con.State == ConnectionState.Open) con.Close();
+            }
+
+        }
         public List<Socio> TraerTodo()
         {
             List<Socio> socios = new List<Socio>();
@@ -258,7 +290,7 @@ namespace Repositorios
                 SqlDataReader reader = com.ExecuteReader();
 
                 while (reader.Read())
-                {                   
+                {
                     Socio unSocio = new Socio
                     {
                         Nombre = reader.GetString(1),
@@ -269,7 +301,7 @@ namespace Repositorios
                     };
                     socios.Add(unSocio);
                 }
-                socios = socios.OrderByDescending( s => s.Nombre).ThenBy( s => s.Cedula).ToList();
+                socios = socios.OrderByDescending(s => s.Nombre).ThenBy(s => s.Cedula).ToList();
                 con.Close();
             }
             finally
