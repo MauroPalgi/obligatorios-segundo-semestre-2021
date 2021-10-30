@@ -48,7 +48,6 @@ namespace WebClubDeportivo.Controllers
         [HttpPost]
         public ActionResult AltaSocio(Socio socio)
         {
-
             if (Session["logeado"] != null)
             {
                 bool ok = FabricaRepositorio.ObtenerRepositorioSocios().Alta(socio);

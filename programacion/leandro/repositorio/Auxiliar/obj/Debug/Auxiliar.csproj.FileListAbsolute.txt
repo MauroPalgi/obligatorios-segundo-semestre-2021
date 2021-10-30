@@ -97,3 +97,14 @@ C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debu
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.dll
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\bin\Debug\Repositorios.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\bin\Debug\Repositorios.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\obj\Debug\Auxiliar.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\obj\Debug\Auxiliar.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Auxiliar\obj\Debug\Auxiliar.pdb

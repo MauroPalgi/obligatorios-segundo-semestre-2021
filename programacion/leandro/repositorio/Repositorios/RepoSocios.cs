@@ -12,8 +12,8 @@ namespace Repositorios
 {
     public class RepoSocios : IRepoSocios
     {
-        // string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
-        string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
+        string strCon = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;";
+        //string strCon = @"Data Source=(local)\MSSQLSERVER01; Initial Catalog=CLUBDEPORTIVO; Integrated Security=SSPI;"; // string de conexion de Mauro
         public bool Alta(Socio obj)
         {
             bool NombreValidacion = Socio.ValidarNombre(obj.Nombre);
@@ -58,7 +58,6 @@ namespace Repositorios
         public bool Baja(string cedula)
         {
             bool ret = false;
-
             SqlConnection con = new SqlConnection(strCon);
             string sql = "update SOCIO set activo=0 where cedula=@cedula;";
 
@@ -151,30 +150,35 @@ namespace Repositorios
         }
         public bool Modificacion(Socio obj)
         {
+
+            bool NombreValidacion = Socio.ValidarNombre(obj.Nombre);
+            bool FchValidacion = Socio.ValidarFechaNac(obj.FechaNac);
             bool ret = false;
-            SqlConnection con = new SqlConnection(strCon);
-
-            string sql = "update SOCIO set nombre=@nombre, fechaNac=@fechaNac where cedula=@cedula;";
-            SqlCommand com = new SqlCommand(sql, con);
-
-            com.Parameters.AddWithValue("@nombre", obj.Nombre);
-            com.Parameters.AddWithValue("@fechaNac", obj.FechaNac);
-            com.Parameters.AddWithValue("@cedula", obj.Cedula);
-            try
+            if (NombreValidacion && FchValidacion)
             {
-                con.Open();
-                int afectadas = com.ExecuteNonQuery();
-                con.Close();
+                SqlConnection con = new SqlConnection(strCon);
+                string sql = "update SOCIO set nombre=@nombre, fechaNac=@fechaNac where cedula=@cedula;";
+                SqlCommand com = new SqlCommand(sql, con);
 
-                ret = afectadas == 1;
-            }
-            catch
-            {
-                throw;
-            }
-            finally
-            {
-                if (con.State == ConnectionState.Open) con.Close();
+                com.Parameters.AddWithValue("@nombre", obj.Nombre);
+                com.Parameters.AddWithValue("@fechaNac", obj.FechaNac);
+                com.Parameters.AddWithValue("@cedula", obj.Cedula);
+                try
+                {
+                    con.Open();
+                    int afectadas = com.ExecuteNonQuery();
+                    con.Close();
+
+                    ret = afectadas == 1;
+                }
+                catch
+                {
+                    throw;
+                }
+                finally
+                {
+                    if (con.State == ConnectionState.Open) con.Close();
+                }
             }
             return ret;
         }

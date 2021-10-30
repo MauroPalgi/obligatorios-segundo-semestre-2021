@@ -38,3 +38,13 @@ C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\WCFServicioActivi
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.csproj.CopyComplete
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.dll
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\bin\WCFServicioActividades.dll.config
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\bin\WCFServicioActividades.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\bin\WCFServicioActividades.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\bin\DAL.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\bin\DAL.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\WCFServicioActividades\obj\Debug\WCFServicioActividades.pdb

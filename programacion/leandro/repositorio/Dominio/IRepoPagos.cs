@@ -11,6 +11,5 @@ namespace Dominio
         decimal Alta(Pago obj, Socio documento);
         // poner logica pagos
         void ExportarTabla();
-
     }
 }

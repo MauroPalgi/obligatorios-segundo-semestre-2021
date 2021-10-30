@@ -78,3 +78,12 @@ C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Repositorios\obj\
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.dll
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\bin\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\obj\Debug\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Repositorios\obj\Debug\Repositorios.pdb

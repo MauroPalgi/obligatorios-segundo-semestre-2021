@@ -52,3 +52,9 @@ C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.dll
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Dominio\bin\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Dominio\obj\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\Dominio\obj\Debug\Dominio.pdb

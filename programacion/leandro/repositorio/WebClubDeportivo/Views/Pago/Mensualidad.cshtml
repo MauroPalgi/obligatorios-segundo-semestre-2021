@@ -7,9 +7,10 @@
 
 <form action="/pago/PagoMensualidad" method="post">
     <label>
-        Pagar Pase libre:
+        El monto a pagar es: @ViewBag.Monto
     </label>
     <input style="display: none" type="text" name="cedula" value=@ViewBag.Cedula />
+
     <button type="submit">Pagar</button>
 </form>
 

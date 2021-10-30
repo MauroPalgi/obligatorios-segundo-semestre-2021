@@ -16,3 +16,9 @@ C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\obj\Debug\DAL.dll
 C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\obj\Debug\DAL.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\DAL\bin\Debug\DAL.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\DAL\bin\Debug\DAL.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\DAL\obj\Debug\DAL.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\DAL\obj\Debug\DAL.pdb

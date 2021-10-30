@@ -26,3 +26,17 @@ C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.exe
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.pdb
 C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\ConsolePrueba.exe.config
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\ConsolePrueba.exe
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\ConsolePrueba.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\Auxiliar.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\Dominio.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\Repositorios.dll
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\Auxiliar.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\Dominio.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\bin\Debug\Repositorios.pdb
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.exe
+C:\Users\Windows 10\source\repos\obligatorios-segundo-semestre-2021\programacion\leandro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.pdb

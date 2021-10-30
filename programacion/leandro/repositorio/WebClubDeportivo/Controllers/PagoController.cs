@@ -18,7 +18,11 @@ namespace WebClubDeportivo.Controllers
         {
             if (Session["logeado"] != null)
             {
+                decimal monto;
+                Pago cuponera = new Cuponera();
+                monto = cuponera.Descuento();
                 ViewBag.Cedula = cedula;
+                ViewBag.Monto = monto;
                 return View();
             }
             else
@@ -26,11 +30,12 @@ namespace WebClubDeportivo.Controllers
                 return View("~/Views/Funcionario/Login.cshtml");
             }
         }
+        [HttpPost]
         public ActionResult PagoCuponera(string actividades, string cedula)
         {
             if (Session["logeado"] != null)
             {
-                decimal monto = 0;
+                decimal monto;
                 string[] parts = cedula.Split('/');
                 Socio unSocio = repoSocios.BuscarPorCi(parts[0]);
                 Pago mensualidad = new Cuponera()
@@ -52,11 +57,15 @@ namespace WebClubDeportivo.Controllers
                 return View("~/Views/Funcionario/Login.cshtml");
             }
         }
-        public ActionResult Mensualidad(string cedula, decimal? monto)
+        public ActionResult Mensualidad(string cedula)
         {
             if (Session["logeado"] != null)
             {
+                decimal monto;
+                Pago mensualidad = new PaseLibre();
+                monto = mensualidad.Descuento();
                 ViewBag.Cedula = cedula;
+                ViewBag.Monto = monto;
                 return View();
             }
             else
@@ -70,7 +79,7 @@ namespace WebClubDeportivo.Controllers
         {
             if (Session["logeado"] != null)
             {
-                decimal monto = 0;
+                decimal monto;
                 string[] parts = cedula.Split('/');
                 Socio unSocio = repoSocios.BuscarPorCi(parts[0]);
                 Pago mensualidad = new PaseLibre();
