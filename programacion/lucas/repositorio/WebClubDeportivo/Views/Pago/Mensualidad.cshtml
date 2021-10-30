@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Pase Libre";
+}
+
+<h2>Pase Libre</h2>
+
+<form action="/pago/PagoMensualidad" method="post">
+    <label>
+        Pagar Pase libre:
+    </label>
+    <input style="display: none" type="text" name="cedula" value=@ViewBag.Cedula />
+    <button type="submit">Pagar</button>
+</form>
+
+

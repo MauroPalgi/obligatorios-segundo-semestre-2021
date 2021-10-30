@@ -1,0 +1,24 @@
+C:\Users\mauro\OneDrive\Escritorio\New folder\DAL\bin\Debug\DAL.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\DAL\bin\Debug\DAL.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\DAL\obj\Debug\DAL.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\DAL\obj\Debug\DAL.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DAL\bin\Debug\DAL.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DAL\bin\Debug\DAL.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DAL\obj\Debug\DAL.dll
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\DAL\obj\Debug\DAL.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\bin\Debug\DAL.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\bin\Debug\DAL.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\obj\Debug\DAL.dll
+C:\Users\mauro\OneDrive\Escritorio\New folder\programacion\mauro\repositorio\DAL\obj\Debug\DAL.pdb
+C:\Users\lteje\Desktop\obligatorios-segundo-semestre-2021\programacion\lucas\repositorio\DAL\bin\Debug\DAL.dll
+C:\Users\lteje\Desktop\obligatorios-segundo-semestre-2021\programacion\lucas\repositorio\DAL\bin\Debug\DAL.pdb
+C:\Users\lteje\Desktop\obligatorios-segundo-semestre-2021\programacion\lucas\repositorio\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lteje\Desktop\obligatorios-segundo-semestre-2021\programacion\lucas\repositorio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Desktop\obligatorios-segundo-semestre-2021\programacion\lucas\repositorio\DAL\obj\Debug\DAL.dll
+C:\Users\lteje\Desktop\obligatorios-segundo-semestre-2021\programacion\lucas\repositorio\DAL\obj\Debug\DAL.pdb

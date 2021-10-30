@@ -1,0 +1,28 @@
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\bin\Debug\ConsolePrueba.exe.config
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\bin\Debug\ConsolePrueba.exe
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\bin\Debug\ConsolePrueba.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.exe
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.pdb
+C:\Users\mauro\OneDrive\Escritorio\New folder\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\bin\Debug\ConsolePrueba.exe.config
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\bin\Debug\ConsolePrueba.exe
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\bin\Debug\ConsolePrueba.pdb
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.AssemblyReference.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CoreCompileInputs.cache
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.exe
+C:\Users\lteje\Documents\GitHub\new-repositorio-obligatorio-3\ConsolePrueba\obj\Debug\ConsolePrueba.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\ConsolePrueba.exe.config
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\ConsolePrueba.exe
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\ConsolePrueba.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\Auxiliar.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\Dominio.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\Repositorios.dll
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\Auxiliar.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\Dominio.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\bin\Debug\Repositorios.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.AssemblyReference.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CoreCompileInputs.cache
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.exe
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.pdb
+C:\mauro\repos\ort\obligatorios\programacion\mauro\repositorio\ConsolePrueba\obj\Debug\ConsolePrueba.csproj.CopyComplete
