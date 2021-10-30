@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "ListarIngresos";
+}
+
+<h2>Listar Ingresos por Fecha</h2>
+
+<div class="form-group">
+    <form action="/actividades/listarIngresos" method="post">
+        <label for="fechaInicio">Fecha Inicio</label>
+        <input type="date" id="fechaInicio" class="form-control" name="fechaInicio" />
+        <label for="fechaFinal">Fecha Final</label>
+        <input type="date" id="fechaFinal" class="form-control" name="fechaFinal" />
+        <button type="submit" class="btn btn-default">Buscar</button>
+    </form>
+</div>
+
+@if (ViewBag.listaActividadesFiltradas == null)
+{
+    <p>No existen actividades registradas</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <tr>
+            <th class="text-center">CodigoAct</th>
+            <th class="text-center">NombreAct</th>
+            <th class="text-center">FechaAct</th>
+        </tr>
+        @foreach (var actividad in ViewBag.listaActividadesFiltradas)
+        {
+            <tr>
+                <td class="text-center">@actividad.CodigoAct</td>
+                <td class="text-center">@actividad.Nombre</td>
+                <td class="text-center">@actividad.HoraComienzo</td>
+            </tr>
+        }
+    </table>
+}

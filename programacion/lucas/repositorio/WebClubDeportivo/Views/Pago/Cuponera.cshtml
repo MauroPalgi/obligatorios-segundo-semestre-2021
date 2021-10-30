@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Cuponera";
+}
+
+<h2>Cuponera</h2>
+
+<form action="/pago/pagoCuponera" method="post">
+    <label>
+        Cant ingresos por mes:
+        <input type="number" name="actividades" min="8" max="60" />
+    </label>
+    <input style="display: none" type="text" name="cedula" value=@ViewBag.Cedula />
+    <button type="submit">Pagar</button>
+</form>
